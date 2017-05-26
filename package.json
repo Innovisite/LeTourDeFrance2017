@@ -15,6 +15,7 @@
   "license": "ISC",
   "devDependencies": {
     "fs": "0.0.1-security",
+    "gh-release": "^2.2.1",
     "glob": "^7.1.2",
     "path": "^0.12.7",
     "request": "^2.81.0"
