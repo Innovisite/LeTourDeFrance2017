@@ -1,0 +1,22 @@
+{
+  "name": "letourdefrance2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateEtapes.js",
+  "scripts": {
+    "start": "sh ./doAll.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ovh:/share/codeffekt/Dev/LeTourDeFrance2017.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "glob": "^7.1.2",
+    "path": "^0.12.7",
+    "request": "^2.81.0"
+  }
+}

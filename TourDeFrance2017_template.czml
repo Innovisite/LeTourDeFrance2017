@@ -1,0 +1,168 @@
+[
+    {
+        "id": "document",
+        "name": "Tour de France 2017",
+        "version": "1.0"
+    },
+    {
+        "id": "etape2",
+        "name": "Etape 2",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            255,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape2.json"            
+        }
+    },
+    {
+        "id": "etape3",
+        "name": "Etape 3",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape3.json"            
+        }
+    },
+    {
+        "id": "etape4",
+        "name": "Etape 4",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            255,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape4.json"            
+        }
+    },
+    {
+        "id": "etape5",
+        "name": "Etape 5",
+        "description": "Mercredi 5 Juillet / Vittel - La Planche-des-Belles-Filles / 160 Km",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape5.json"            
+        }
+    },
+    {
+        "id": "etape12",
+        "name": "Etape 12",
+        "description": "Jeudi 13 Juillet / Pau - Peyragudes / 214.5km",
+        "polyline": {
+            "show": true,
+            "heightReference": "CLAMP_TO_GROUND",
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape12.json"            
+        }
+    },
+    {
+        "id": "etape17",
+        "name": "Etape 17",
+        "description": "Mercredi 19 Juillet / La Mure - Serre-Chevalier / 183 Km",
+        "polyline": {
+            "show": true,
+            "heightReference": "CLAMP_TO_GROUND",
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape17.json"            
+        }
+    },
+    {
+        "id": "etape18",
+        "name": "Etape 18",
+        "description": "Jeudi 20 Juillet / Briançon - Izoard / 179.5 Km",
+        "polyline": {
+            "show": true,
+            "heightReference": "CLAMP_TO_GROUND",
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape18.json"            
+        }
+    }
+]

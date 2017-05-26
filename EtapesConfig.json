@@ -1,0 +1,99 @@
+{
+    "api": {
+        "url": "https://graphhopper.com/api/1/route",
+        "params": "vehicle=bike&locale=fr-FR&key=LijBPDQGfu7Iiq80w3HzwB4RUDJbMbhs6BU0dEnn&ch.disable=false&type=json&elevation=true&points_encoded=false&instructions=false"
+    },
+    "etapes": [
+        {
+            "output": "build/etapes/etape2.json",
+            "points": [
+                [
+                    51.2254,
+                    6.7763
+                ],
+                [
+                    50.6451,
+                    5.5734
+                ]
+            ]
+        },
+        {
+            "output": "build/etapes/etape3.json",
+            "points": [
+                [
+                    50.5932274,
+                    5.8638544
+                ],
+                [
+                    49.5144474,
+                    5.7679621
+                ]
+            ]
+        },
+        {
+            "output": "build/etapes/etape4.json",
+            "points": [
+                [
+                    49.5082336,
+                    6.2826083
+                ],
+                [
+                    48.2018367,
+                    5.9492242
+                ]
+            ]
+        },
+        {
+            "output": "build/etapes/etape5.json",
+            "points": [
+                [
+                    48.2018367,
+                    5.9492242
+                ],
+                [
+                    47.767232,
+                    6.7736389
+                ]
+            ]
+        },
+        {
+            "output": "build/etapes/etape12.json",
+            "points": [
+                [
+                    43.2957547,
+                    -0.3685667
+                ],
+                [
+                    42.787583,
+                    0.4766419
+                ]
+            ]
+        },
+        {
+            "output": "build/etapes/etape17.json",
+            "points": [
+                [
+                    44.9038429,
+                    5.7871983
+                ],
+                [
+                    44.9107208,
+                    6.5500553
+                ]
+            ]
+        },
+        {
+            "output": "build/etapes/etape18.json",
+            "points": [
+                [
+                    44.9006928,
+                    6.64557
+                ],
+                [
+                    44.8197358,
+                    6.7327893
+                ]
+            ]
+        }
+    ]
+}
