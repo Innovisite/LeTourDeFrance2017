@@ -5,6 +5,28 @@
         "version": "1.0"
     },
     {
+        "id": "etape1",
+        "name": "Etape 1",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            255,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape1.json"            
+        }
+    },
+    {
         "id": "etape2",
         "name": "Etape 2",
         "polyline": {
@@ -94,6 +116,144 @@
         }
     },
     {
+        "id": "etape6",
+        "name": "Etape 6",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape6.json"            
+        }
+    },
+    {
+        "id": "etape7",
+        "name": "Etape 7",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape7.json"            
+        }
+    },
+    {
+        "id": "etape8",
+        "name": "Etape 8",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape8.json"            
+        }
+    },
+    {
+        "id": "etape9",
+        "name": "Etape 9",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape9.json"            
+        }
+    },
+    {
+        "id": "etape10",
+        "name": "Etape 10",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape10.json"            
+        }
+    },
+    {
+        "id": "etape11",
+        "name": "Etape 11",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape11.json"            
+        }
+    },
+    {
         "id": "etape12",
         "name": "Etape 12",
         "description": "Jeudi 13 Juillet / Pau - Peyragudes / 214.5km",
@@ -115,6 +275,98 @@
         },
         "properties": {
             "geojson": "build/etapes_heights/etape12.json"            
+        }
+    },
+    {
+        "id": "etape13",
+        "name": "Etape 13",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape13.json"            
+        }
+    },
+    {
+        "id": "etape14",
+        "name": "Etape 14",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape14.json"            
+        }
+    },
+    {
+        "id": "etape15",
+        "name": "Etape 15",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape15.json"            
+        }
+    },
+    {
+        "id": "etape16",
+        "name": "Etape 16",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape16.json"            
         }
     },
     {
@@ -163,6 +415,75 @@
         },
         "properties": {
             "geojson": "build/etapes_heights/etape18.json"            
+        }
+    },
+    {
+        "id": "etape19",
+        "name": "Etape 19",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape19.json"            
+        }
+    },
+    {
+        "id": "etape20",
+        "name": "Etape 20",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape20.json"            
+        }
+    },
+    {
+        "id": "etape21",
+        "name": "Etape 21",
+        "description": "",
+        "polyline": {
+            "show": true,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            0,
+                            0,
+                            255,
+                            255
+                        ]
+                    }
+                }
+            }
+        },
+        "properties": {
+            "geojson": "build/etapes_heights/etape21.json"            
         }
     }
 ]
