@@ -5,7 +5,7 @@ VERSION=$(node --eval "console.log(require('./package.json').version);")
 NAME=$(node --eval "console.log(require('./package.json').name);")
 
 # build and test
-./node_modules/.bin/gulp build
+#./node_modules/.bin/gulp build
 
 # checkout temp branch for release
 git checkout -b gh-release
